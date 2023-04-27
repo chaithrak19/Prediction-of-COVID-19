@@ -1,1 +1,1 @@
-# Prediction-of-COVID-19
+# Final_year_project
